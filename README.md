@@ -1,5 +1,9 @@
 # BD_project_weather_forecast
 
+Project members:
+- Wojciech Szczypek
+- Mikołaj Jakubowski
+
 ## Project PoC
 
 Aim of this project is to get weather data and verify weather forecast for the upcoming x days.

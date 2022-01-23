@@ -1,0 +1,29 @@
+{
+    "requests": [
+        {
+            "city": "London",
+            "lat": "51.52",
+            "lon": "-0.11"
+        },
+        {
+            "city": "Liverpool",
+            "lat": "53.42",
+            "lon": "-2.94"
+        },
+        {
+            "city": "Birmingham",
+            "lat": "52.49",
+            "lon": "-1.86"
+        },
+        {
+            "city": "Warszawa",
+            "lat": "52.25",
+            "lon": "21.0"
+        },
+        {
+            "city": "Krosno",
+            "lat": "49.68",
+            "lon": "21.78"
+        }
+    ]
+}

@@ -6,5 +6,4 @@ Project members:
 
 ## Project PoC
 
-Aim of this project is to get weather data and verify weather forecast for the upcoming x days.
-Firstly we will create NiFi pipeline for connecting to the API, processing the data and storing it on the hadoop. Next after x days we will trigger similiar pipeline focused on dwonloading historical data. Having data on hadoop it will be uplaoded to HBase using python scripts. and finally it will be analysed with the use of PySpark library. Our analyzis will focus on the differences between forecasts and actual weather. We will try to find the best meteorological station with the smallest forecast error.
+The aim of this project is to create an Big Data architecture, able to handle accumulating and analysis of weather and air pollution data. This data would be aquired from two separate APIs, to be later on transformed using NIFI software. Other used technologies used in this project are Hadoop, Hive and HBase for data storage and Apache Spark for all kinds of analysis.

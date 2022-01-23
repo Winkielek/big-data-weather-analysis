@@ -1,0 +1,5 @@
+stworzenie tabeli agregacyjnej w HBase:
+create 'batch_analysis', 'analysis'
+
+stworzenie tabeli z mapami w HBase:
+create 'realtime_analysis', 'analysis'

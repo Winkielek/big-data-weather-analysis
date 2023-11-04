@@ -1,4 +1,4 @@
-# BD_project_weather_forecast
+# Big Data project - weather forecast
 
 Project members:
 - Wojciech Szczypek
